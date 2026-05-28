@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/TheM2121/guestbook-gitops
-    newTag: main-63115db
+    newTag: main-1b3ef47
