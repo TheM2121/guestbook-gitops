@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TheM2121/guestbook-gitops
+    repoURL: https://github.com/them2121/guestbook-gitops
     targetRevision: HEAD
     path: argocd
   destination:
